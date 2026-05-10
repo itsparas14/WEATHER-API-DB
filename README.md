@@ -71,6 +71,7 @@ It can be used as a learning project, portfolio piece, or a reference for anyone
 
 ## Screenshot
 
+<img width="1137" height="645" alt="image" src="https://github.com/user-attachments/assets/45ed9eef-bb5e-4dce-9435-0aa79e1ab1a4" />
 
 
 ## Repository Structure
